@@ -1,0 +1,7 @@
+{
+  "name": "citrica-e-doce",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "npx serve .", "test": "node --test test/*.test.mjs" }
+}
